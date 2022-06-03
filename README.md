@@ -1,4 +1,4 @@
-#Dio - Flahashlight
+#Dio - Flashlight
 
 Dio Challenge:construindo um app usando o sensor de movimento do React-Native
 
